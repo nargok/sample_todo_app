@@ -12,7 +12,9 @@ class Counter extends Component {
        count: 0,
        inputValue: "",
        tasks: [
-         { title: "デフォルトtodo" }
+        { title: "白いやつを迎える準備をする" },
+        { title: "あの壺をキシリア様に届ける" },
+        { title: "あれはいいものだ" },
        ]
     }
   }
